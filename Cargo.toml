@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "guessing-game",
+    "structs",
+    "variables",
+    "control-flow",
+]
